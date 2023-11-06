@@ -10,6 +10,11 @@
 
 > Son olarak metriklerdeki validatör sayılarının gerçek olmadığından eminim.
 
+#
+
+> Önemli linkler: [Duyuru](https://t.me/RuesAnnouncement) - [Sohbet](https://t.me/RuesChat) -  [WP Kanalı](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Discord](https://discord.gg/elixirprotocol)
+
+
 # Donanım
 ```
 1 vCPU  - 2 RAM - 30 GB SSD, Ubuntu
