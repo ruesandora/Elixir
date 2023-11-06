@@ -17,6 +17,9 @@
 > Sağ üstten fork ve yıldız unutmayınız!
 
 # Donanım
+
+> [Hetzner](https://github.com/ruesandora/Hetzner) kullanıyorum.
+
 ```
 1 vCPU  - 2 RAM - 30 GB SSD, Ubuntu
 ```
