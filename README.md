@@ -14,6 +14,7 @@
 
 > Önemli linkler: [Duyuru](https://t.me/RuesAnnouncement) - [Sohbet](https://t.me/RuesChat) -  [WP Kanalı](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Discord](https://discord.gg/elixirprotocol)
 
+> Sağ üstten fork ve yıldız unutmayınız!
 
 # Donanım
 ```
