@@ -79,11 +79,7 @@ docker run -it --name ev elixir-validator
 
 > Aynı zamanda metrics kısmıda çalışmıyor düzeltirler yakında takip ederiz.
 
-<img width="1112" alt="Ekran Resmi 2023-11-06 14 58 34" src="https://github.com/ruesandora/Elixir/assets/101149671/52db7422-cdb2-441e-b3ba-24eab5b1a515">
-
-
-
-
+<img width="1105" alt="Ekran Resmi 2023-11-06 15 09 36" src="https://github.com/ruesandora/Elixir/assets/101149671/e7326b21-b19c-460a-b405-8b04156b2831">
 
 
 
