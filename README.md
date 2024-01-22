@@ -86,7 +86,7 @@ docker run -it --name ev elixir-validator
 
 > Ledearboardda cüzdan aratarak node'unuzu görebilirsiniz fakat şu an pek çalıştığı söylenemez.
 
-> Aynı zamanda metrics kısmıda çalışmıyor düzeltirler yakında takip ederiz.
+> Aynı zamanda metrics kontrol için https://metrics-2.elixir.finance/ adresinde cüzdanınızı aratabilirsiniz.
 
 <img width="1105" alt="Ekran Resmi 2023-11-06 15 09 36" src="https://github.com/ruesandora/Elixir/assets/101149671/e7326b21-b19c-460a-b405-8b04156b2831">
 
